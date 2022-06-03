@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋 I'm Louis
 
-<!--
-**Isnubi/Isnubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech entusiast and a engineering computer sciences student in the network and cybersecurity scopes.
+- 🌱 I’m currently learning C language
+- 📫 How to reach me: Discord (isnubi#6221), Github or [LinkedIn](https://www.linkedin.com/in/louis-gambart/)
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I developed some random things in:
+* Web languages (HTML, CSS, PHP, JavaScript)
+* Python
+* Powershell
+
+## Tools
+
+I used different tools to work:
+* Jetbrains softwares (IntelliJ IDEA, PyCharm, PhpStorm, CLion)
+* Cisco Packet Tracer
+* Wireshark
+* VMWare technologies (Workstation, ESXi, vCenter)
+* MobaXterm
+* Visual Studio Code
