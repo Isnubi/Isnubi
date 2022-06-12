@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Louis
 
 I'm a tech entusiast and a engineering computer sciences student in the network and cybersecurity scopes.
-- 🌱 I’m currently learning C language
+- 🌱 I’m currently learning [C language](https://www.github.com/Isnubi/C_learning)
 - 📫 How to reach me: Discord (isnubi#6221), Github or [LinkedIn](https://www.linkedin.com/in/louis-gambart/)
 
 ## Languages
