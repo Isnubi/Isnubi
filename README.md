@@ -7,8 +7,9 @@ I'm a tech entusiast and a engineering computer sciences student in the network 
 ## Languages
 
 I developed some random things in:
-* Web languages (HTML, CSS, PHP, JavaScript)
+* Web languages (HTML, CSS, PHP)
 * Python
+* C
 * Powershell
 
 ## Tools
@@ -20,3 +21,5 @@ I used different tools to work:
 * VMWare technologies (Workstation, ESXi, vCenter)
 * MobaXterm
 * Visual Studio Code
+* Kali packages
+* Windows Sysinternals Suite
