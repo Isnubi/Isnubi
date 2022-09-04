@@ -4,7 +4,7 @@
 
 ##### NOW
 
-- ✨ Discord Bot in Python: (FeurBot)[https://github.com/Isnubi/FeurBot/]
+- ✨ Discord Bot in Python: [FeurBot](https://github.com/Isnubi/FeurBot/)
 
 ##### BIO
 
