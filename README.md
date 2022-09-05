@@ -10,8 +10,8 @@
 
 - 🌱 I’m currently learning [C language](https://www.github.com/Isnubi/C_learning) and cybersecurity things with [TryHackMe](https://www.tryhackme.com)
 - ⚙️ I develop things in: `.html`, `.php`, `.css`, `.py`, `.c`, `.ps1`.
-- ⚙️ I develop things with: `Jetbrains IDE`, `VS Code`.
-- ⚙️ I use: `Cisco Packet Tracer`, `Wireshark`, `VMWare technologies`, `MobaXterm`, `Kali packages`, `Sysinternals Windows Suite`.
+- 💻 I develop things with: `Jetbrains IDE`, `VS Code`.
+- ⚡ I use: `Cisco Packet Tracer`, `Wireshark`, `VMWare technologies`, `MobaXterm`, `Kali packages`, `Sysinternals Windows Suite`.
 
 
 📫 Reach me: Discord (isnubi#6221), Github or [LinkedIn](https://www.linkedin.com/in/louis-gambart/)
