@@ -4,8 +4,9 @@
 
 ##### NOW
 
-- ✨ Discord Bot in Python: [FeurBot](https://github.com/Isnubi/FeurBot/)
-- 💻 Python WLAN Password finder : [Python WLAN Password Finder](https://github.com/Isnubi/python-wifi-password-finder/)
+- :sparkles: Discord Bot in Python: [FeurBot](https://github.com/Isnubi/FeurBot/)
+- :computer: Python WLAN Password finder: [Python WLAN Password Finder](https://github.com/Isnubi/python-wifi-password-finder/)
+- :bullettrain_side: Ile-de-France Mobilités API user: [IDFM API](https://github.com/Isnubi/IDFM-API/) 
 
 ##### BIO
 
