@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Louis
 
 #### I'm a tech entusiast and a engineering computer sciences student in the network and cybersecurity scopes.
-#### Member of [Club Nix](https://github.com/ClubNix](https://github.com/ClubNix).
+#### Member of (Club Nix)[https://github.com/ClubNix].
 
 ##### NOW
 
