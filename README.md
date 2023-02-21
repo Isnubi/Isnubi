@@ -12,7 +12,7 @@
 ##### BIO
 
 - :seedling: I’m currently learning cybersecurity things with [TryHackMe](https://www.tryhackme.com)
-- :gear: I develop things in
+- :gear: I develop things in<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isnubi&show_icons=true&locale=en&layout=compact&theme=dark" alt="isnubi"/>
 - :computer: I develop things with: `Jetbrains IDE`
 - :zap: I use: `Cisco Packet Tracer`, `Wireshark`, `VMWare technologies`, `MobaXterm`, `Kali packages`, `Sysinternals Windows Suite`.
