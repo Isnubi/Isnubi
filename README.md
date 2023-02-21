@@ -16,8 +16,8 @@
 - :computer: I develop things with: `Jetbrains IDE`
 - :zap: I use: `Cisco Packet Tracer`, `Wireshark`, `VMWare technologies`, `MobaXterm`, `Kali packages`, `Sysinternals Windows Suite`.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isnubi&show_icons=true&locale=en&layout=compact" alt="isnubi"/>
-<img src="https://github-readme-stats.vercel.app/api?username=isnubi&show_icons=true&locale=en" alt="isnubi"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=isnubi&show_icons=true&locale=en&layout=compact&theme=dark" alt="isnubi"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isnubi&show_icons=true&locale=en&theme=dark" alt="isnubi"/>
 
 
 :mailbox: Reach me: Discord (isnubi#6221), Github or [LinkedIn](https://www.linkedin.com/in/louis-gambart/)
