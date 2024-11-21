@@ -2,6 +2,7 @@
 
 #### I'm a tech entusiast and a engineering computer sciences student in the network and cybersecurity scopes.
 #### President of [Club Nix](https://github.com/ClubNix).
+#### Organization committee of the [HackDay](https://hackday.fr).
 
 ##### NOW
 
@@ -14,7 +15,7 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isnubi&show_icons=true&locale=en&layout=compact&theme=dark" alt="isnubi"/>
   
-- :computer: I develop things with: `Jetbrains IDE`
-- :zap: I use: `Cisco Packet Tracer`, `Wireshark`, `VMWare technologies`, `MobaXterm`, `Kali packages`, `Sysinternals Windows Suite`.
+- :computer: I develop things with: `Jetbrains IDE`, `Neovim`
+- :zap: I use: `Docker`, `Proxmox`, open-source and self-hosted apps, ...
 
 :mailbox: Reach me: Discord (@isnubi), Github or [LinkedIn](https://www.linkedin.com/in/louis-gambart/)
